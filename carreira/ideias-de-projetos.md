@@ -50,3 +50,9 @@ Um quiz com algumas perguntas sobre preferências de decoração e, no final, a 
 
 ### Primeira versão
 Uma página simples em que o usuário pode escolher alguns móveis e objetos para montar um ambiente.
+
+## Favorito — Projeto 1
+
+**Jogo simples de decoração**
+
+Escolhi este como meu favorito porque foi a ideia que achei mais interessante e que mais combina com minha formação em Design de Interiores. A primeira versão poderá ser construída como uma página usando HTML e CSS, e futuramente poderá ganhar interatividade com JavaScript.
